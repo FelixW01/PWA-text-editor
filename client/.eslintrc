@@ -12,7 +12,10 @@
     "no-underscore-dangle": "off",
     "no-restricted-globals": "off"
   },
+  "parser": "babel-eslint",
   "parserOptions": {
+    "sourceType": "module",
+    "allowImportExportEverywhere": true,
     "ecmaVersion": "latest"
   }
 }
