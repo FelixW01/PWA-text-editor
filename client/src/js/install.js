@@ -21,7 +21,6 @@ butInstall.addEventListener('click', async () => {
 
 
     window.deferredPrompt = null;
-    // after install, makes the button not visible
     butInstall.classList.toggle('hidden', true);
 });
 
