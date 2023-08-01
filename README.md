@@ -4,7 +4,7 @@
   https://sheltered-woodland-89556-a0b8c9d7ff11.herokuapp.com/
   # Description
   This application is a text editor application with progressive web application capabilities. JATE was created to be used both online and offline, enabled by 
-  the IndexDB that persists the data. This app is a platform for users that wants to take notes and write javascript snippets both offline and online.
+  the IndexDB that persists the data and service wroker enabling offline access. This app is a platform for users that wants to take notes and write javascript snippets both offline and online.
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
