@@ -31,7 +31,7 @@ export const putDb = async (content) => {
   const store = tx.objectStore('jate');
 
   // Get information of the req
-  const request = store.add({
+  const request = store.put({
     id: 1,
     value: content
   });
